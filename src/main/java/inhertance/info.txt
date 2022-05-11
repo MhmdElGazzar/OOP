@@ -1,0 +1,8 @@
+we noted that there are some common attributes and operations in emp and mgr
+1- save is the same
+2- name , age and salary are common
+3- separating them might lead to issues of inconsistancies
+ we can say that "manager is an employee" with additional features
+ note that inhertance must be in "is a" relationship
+
+

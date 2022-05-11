@@ -1,0 +1,5 @@
+abstraction is about main points
+1- creating logical entities  (creating new java types)
+2- add details related to each entity in its class  (adding properties)
+3- add operations related to each entity in its class (creating methods)
+
